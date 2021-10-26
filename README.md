@@ -1,14 +1,20 @@
-# bridge. Jam!
+# bridge. Jam! 
+-- TODO: POSSIBLY CREATE A BANNER FOR THE JAM
 
 The bridge. jam is an event in which addon creators have a week to create an addon themed around a certain topic!
 
 ## Why join?
 
-~~The bridge Jam will be a fun experience, where you can test your skills. After your add-on has been submitted, your addon will be judged and you will receive an overall score. The person with the highest score will win the jam.~~
+The bridge. Jam will be a fun experience where you can test you skills against other creators!  
 
-I think this sounds better ↓
 
-The bridge. Jam will be a fun experience where you can test you skills against other creators! After your add-on has been submitted, our judges will score your addon accordrding to a set criteria. The creator with the highest score will win the add-on jam!
+## How to submit an addon
+-- TODO: PROVIDE INFORMATION ON HOW TO SUBMIT AN ADDON TO THIS REPO
+
+## Rating
+
+Add-ons will be rated in different categories: Creativity, Functionality and Uniqueness. Each category will be rated out of 10 which will give your addon an overall, which will be used to decide the winner of the bridge. jam!
+
 
 ## Rules
 - Premade assets are not allowed
