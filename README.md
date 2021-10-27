@@ -9,9 +9,11 @@ The bridge. Jam will be a fun experience where you can test you skills against o
 
 ## Rating
 
-Add-ons will be rated in different categories: Creativity, Functionality and Uniqueness. Each category will be rated out of 10 which will give your add-on an overall score, which will be used to decide the winner of the bridge. jam! 
+Add-ons will be rated in different categories: Creativity, Functionality and Uniqueness. Each category will be rated out of 10 which will give your add-on an overall score of 0 out of 30. Whoever has the highest score will win the bridge. add-on jam! In the case of a tie the judges will vote on a poll for the two or more options, the winner of bridge. add-on jam will be whoever gets more votes.
 
 ## Rules
+
+**Breaking any of these rules will result in the add-on being disqualified!**
 
 You are allowed to use any tools to create your add-on! However all assets used in the jam, must be created during the jam (this includes: textures, sounds, etc). You are allowed to use, or modify vanilla assets for your add-on!
 
@@ -23,4 +25,4 @@ Teaming up is allowed, and encouraged! However when submitting your add-on you m
 
 ## How to submit an addon
 
-You can submit an add-on by creating a fork of this repo, next you will want to create a folder for your add-on where you can upload the .mcpack and also a README.md. Inside of the readme you should include: Your add-ons name, A short description of your add-on and the name of creator(s)
+You can submit an add-on by creating a fork of this repo, next you will want to create a folder for your add-on where you can upload the .mcpack and also a README.md. Inside of the readme you should include: Your add-ons name, A short description of your add-on and the name of creator(s). Including instructions and/or a guide would also be highly incouraged if the addon is not self explanatory.
