@@ -22,4 +22,5 @@ Your add-on must not contain any NSFW or offensive content.
 Teaming up is allowed, and encouraged! However when submitting your addon you must say that you have worked as a team, including crediting everyone on your team.
 
 ## How to submit an addon
--- TODO: PROVIDE INFORMATION ON HOW TO SUBMIT AN ADDON TO THIS REPO
+
+You can submit an add-on by creating a fork of this repo, next you will want to create a folder for your add-on where you can upload the .mcpack and also a README.md. Inside of the readme you should include: Your addons name, A short description of your addon, Name of creator(s)
