@@ -26,3 +26,6 @@ Teaming up is allowed, and encouraged! However when submitting your add-on you m
 ## How to submit an addon
 
 You can submit an add-on by creating a fork of this repo, next you will want to create a folder for your add-on where you can upload the .mcpack and also a README.md. Inside of the README you should include: Your add-ons name, A short description of your add-on and the name of creator(s). Including instructions and/or a guide would also be highly incouraged, if the addon is not self explanatory.
+
+## Theme
+To be decided.
