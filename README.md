@@ -1,4 +1,4 @@
-![bridge. Jam](https://user-images.githubusercontent.com/69014593/139026488-7f6d68cf-bbac-48dd-a4a5-081cda7b7d77.png)
+![bridge. Jam](BridgeTitle.png)
 
 
 The bridge. jam is an event in which add-on creators have a week to create an add-on themed around a certain topic!
