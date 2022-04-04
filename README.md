@@ -40,6 +40,10 @@ The theme is **Outer Worlds**!
 
 The jame will take place on Friday, June 3rd and run to Monday, June 13th.
 
+## When Will Results Be Anounced?
+
+Judges will take 3-4 days to judge all submissions. The community will then have 3 days to vote for a winner. Time will then be taken to setup winner anouncments and the proper prizes. In short and estimate of 2 weeks or 14 days after the jam finishes will be needed before anouncing the winners.
+
 # Rules
 
 **Breaking any of these rules will result in the add-on being disqualified!**
