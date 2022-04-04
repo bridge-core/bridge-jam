@@ -44,6 +44,10 @@ The jame will take place on Friday, June 3rd and run to Monday, June 13th.
 
 Judges will take 3-4 days to judge all submissions. The community will then have 3 days to vote for a winner. Time will then be taken to setup winner anouncments and the proper prizes. In short and estimate of 2 weeks or 14 days after the jam finishes will be needed before anouncing the winners.
 
+## What Will the Prizes Be?
+
+To be decided!
+
 # Rules
 
 **Breaking any of these rules will result in the add-on being disqualified!**
@@ -55,3 +59,7 @@ Judges will take 3-4 days to judge all submissions. The community will then have
 5. Only one submission per person.
 6. Only make one post to the jam-submissions channel. If an edit is needed edit the original post.
 7. Only use assets you have the right to use!
+
+# Prizes!
+
+To be decided!
