@@ -1,6 +1,6 @@
 ![bridge. Jam](BridgeJamSplash.png)
 
-The bridge. jam is an event in which add-on creators have a 10 days to create an add-on themed around a chosen theme!
+The bridge. jam is an event in which add-on creators have a 10 days to create an add-on themed around a chosen theme! The jam will take place on Friday, June 3rd to 13th.
 
 # Theme: **Other Worlds**
 
@@ -35,6 +35,10 @@ You can submit an addon by making a post to the jam-submissions channel of the [
 ## What is the Theme?
 
 The theme is **Outer Worlds**!
+
+## When Will the Jam Take Place?
+
+The jame will take place on Friday, June 3rd and run to Monday, June 13th.
 
 # Rules
 
