@@ -46,7 +46,7 @@ Judges will take 3-4 days to judge all submissions. The community will then have
 
 ## What Will the Prizes Be?
 
-To be decided!
+The top 3 winners will have their addon featured on the main page of [the bridge, website](https://bridge-core.app/). The top winner of the whole jam will get free acsess to the private creator help channel of the bridge. discord for exclusive addon help.
 
 # Rules
 
@@ -59,7 +59,3 @@ To be decided!
 5. Only one submission per person.
 6. Only make one post to the jam-submissions channel. If an edit is needed edit the original post.
 7. Only use assets you have the right to use!
-
-# Prizes!
-
-To be decided!
