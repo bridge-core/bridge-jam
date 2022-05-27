@@ -6,13 +6,13 @@ The bridge. jam is an event in which add-on creators have a 10 days to create an
 
 ## Why join the bridge. jam?
 
-The bridge. Jam will be a fun experience where you can test you skills against other creators! The bridge. jam will also be a good opportunity to team up with other creators, to create an add-on together!
+The bridge. Jam will be a fun experience where you can test your skills against other creators! The bridge. jam will also be a good opportunity to team up with other creators, to create an add-on together!
 
 # What You Need To Know:
 
 ## Who Can Enter?
 
-Anyone, any age, anywhere can enter! You can work alonge or in teams!
+Anyone, any age, anywhere can enter! You can work alone or in teams!
 
 ## How Will Addons Be Rated?
 
@@ -38,7 +38,7 @@ The theme is **TBA**!
 
 ## When Will the Jam Take Place?
 
-The jame will take place on Friday, June 3rd and run to Monday, June 13th.
+The jam will take place on Friday, June 3rd and run to Monday, June 13th.
 
 ## When Will Results Be Anounced?
 
@@ -46,7 +46,7 @@ Judges will take 3-4 days to judge all submissions. The community will then have
 
 ## What Will the Prizes Be?
 
-The top 5 winners will have their addon featured on the main page of [the bridge, website](https://bridge-core.app/). The top winner of the whole jam will get free acsess to the private creator help channel of the bridge. discord for exclusive addon help.
+The top 5 winners will have their addon featured on the main page of [the bridge, website](https://bridge-core.app/). The top winner of the whole jam will get free acsess to the private creator help channel of the bridge. discord for exclusive addon help. All winners will also be given a flashy new role in the server.
 
 # Rules
 
