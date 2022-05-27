@@ -2,7 +2,7 @@
 
 The bridge. jam is an event in which add-on creators have a 10 days to create an add-on themed around a chosen theme! The jam will take place on Friday, June 3rd to 13th.
 
-# Theme: **Other Worlds**
+# Theme: **TBA**
 
 ## Why join the bridge. jam?
 
@@ -34,7 +34,7 @@ You can submit an addon by making a post to the jam-submissions channel of the [
 
 ## What is the Theme?
 
-The theme is **Outer Worlds**!
+The theme is **TBA**!
 
 ## When Will the Jam Take Place?
 
@@ -46,7 +46,7 @@ Judges will take 3-4 days to judge all submissions. The community will then have
 
 ## What Will the Prizes Be?
 
-The top 3 winners will have their addon featured on the main page of [the bridge, website](https://bridge-core.app/). The top winner of the whole jam will get free acsess to the private creator help channel of the bridge. discord for exclusive addon help.
+The top 5 winners will have their addon featured on the main page of [the bridge, website](https://bridge-core.app/). The top winner of the whole jam will get free acsess to the private creator help channel of the bridge. discord for exclusive addon help.
 
 # Rules
 
