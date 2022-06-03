@@ -2,7 +2,8 @@
 
 The bridge. jam is an event in which add-on creators have a 10 days to create an add-on themed around a chosen theme! The jam will take place on Friday, June 3rd to 13th.
 
-# Theme: **TBA**
+# Theme: **The World Is Your Enemy**
+Feel free to interpret this however you like.
 
 ## Why join the bridge. jam?
 
@@ -34,7 +35,8 @@ You can submit an addon by making a post to the jam-submissions channel of the [
 
 ## What is the Theme?
 
-The theme is **TBA**!
+The theme is **The World Is Your Enemy**!
+Feel free to interpret this however you like. Original takes on the theme might help boost your submissions rating.
 
 ## When Will the Jam Take Place?
 
